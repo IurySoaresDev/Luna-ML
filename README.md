@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">⚡ LunaML</h1>
   <p align="center">
-    <strong>Biblioteca de Machine Learning em C++ moderno — do zero, sem dependências externas.</strong>
+    <strong>Biblioteca de Machine Learning em C++.</strong>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-17-blue.svg" alt="C++17">
